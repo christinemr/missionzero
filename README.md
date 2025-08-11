@@ -31,6 +31,16 @@ Make the webpage responsive using the wireframe below as guidance.
 - Layout structure, card grid, and responsive logic are scaffolded in `App.jsx`.
 - Tailwind classes handle spacing, typography, and breakpoints.
 
+### 👩🏻‍🎨 Preview
+
+##### Mobile:
+
+![Prototype-mobile](././public/images/Mobile.png)
+
+##### Desktop:
+
+![Prototype-desktop](././public/images/Desktop.png)
+
 ### 🚀 Getting Started
 
 ```bash
